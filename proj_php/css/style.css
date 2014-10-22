@@ -1,0 +1,38 @@
+﻿h1, h2, h3, div
+{
+  font-family: "微软雅黑";
+}
+
+#maindir
+{
+  margin-top: 15px;
+}
+
+#form
+{
+  max-width: 440px;
+}
+
+[class*="col-"] 
+{
+  padding: 5px;
+  background-color: rgba(86,61,124,.15);
+  border: 1px solid rgba(86,61,124,.2);
+}
+
+#banner
+{
+  margin-top: 20px;
+  border: 1px solid #CCC;
+}
+
+.row 
+{
+  margin-right: 0px; 
+  margin-left: 0px;
+}
+
+.book-btns
+{
+  width: 50% !important;
+}

@@ -1,0 +1,115 @@
+[29-Mar-2014 08:35:11 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in C:\Apache24\htdocs\proj1\sign.php on line 16
+[29-Mar-2014 08:36:03 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in C:\Apache24\htdocs\proj1\sign.php on line 16
+[29-Mar-2014 08:48:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\init.php on line 4
+[29-Mar-2014 08:53:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\init.php on line 4
+[29-Mar-2014 09:54:35 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\init.php on line 4
+[29-Mar-2014 09:55:03 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\init.php on line 4
+[29-Mar-2014 09:55:37 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\init.php on line 4
+[29-Mar-2014 09:57:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\init.php on line 4
+[29-Mar-2014 09:58:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\init.php on line 4
+[29-Mar-2014 10:00:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\init.php on line 4
+[29-Mar-2014 10:00:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\init.php on line 4
+[29-Mar-2014 10:00:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\init.php on line 4
+[29-Mar-2014 10:03:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\init.php on line 4
+[29-Mar-2014 10:03:58 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\init.php on line 4
+[29-Mar-2014 10:04:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\init.php on line 4
+[29-Mar-2014 10:04:02 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\init.php on line 4
+[29-Mar-2014 10:04:37 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\init.php on line 4
+[29-Mar-2014 10:08:58 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\init.php on line 4
+[29-Mar-2014 10:09:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\init.php on line 4
+[29-Mar-2014 10:47:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\init.php on line 4
+[29-Mar-2014 10:50:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\login.php on line 22
+[29-Mar-2014 10:51:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\sign.php on line 22
+[29-Mar-2014 10:51:37 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\sign.php on line 22
+[29-Mar-2014 10:52:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\sign.php on line 22
+[29-Mar-2014 10:53:01 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\login.php on line 22
+[29-Mar-2014 11:45:04 UTC] PHP Warning:  define() expects at least 2 parameters, 1 given in C:\Apache24\htdocs\proj1\login.php on line 11
+[29-Mar-2014 11:48:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\login.php on line 23
+[29-Mar-2014 11:48:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\login.php on line 23
+[29-Mar-2014 12:27:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\login.php on line 23
+[29-Mar-2014 12:27:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\login.php on line 23
+[29-Mar-2014 12:35:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\login.php on line 23
+[29-Mar-2014 12:38:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\login.php on line 23
+[29-Mar-2014 12:46:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\sign.php on line 23
+[29-Mar-2014 14:32:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\login.php on line 23
+[29-Mar-2014 14:32:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\login.php on line 23
+[29-Mar-2014 15:32:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\login.php on line 23
+[29-Mar-2014 15:33:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\sign.php on line 23
+[29-Mar-2014 15:34:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\login.php on line 23
+[29-Mar-2014 15:39:48 UTC] PHP Parse error:  syntax error, unexpected ']' in C:\Apache24\htdocs\proj1\index.php on line 4
+[29-Mar-2014 15:40:02 UTC] PHP Parse error:  syntax error, unexpected ';' in C:\Apache24\htdocs\proj1\index.php on line 7
+[29-Mar-2014 15:40:03 UTC] PHP Parse error:  syntax error, unexpected ';' in C:\Apache24\htdocs\proj1\index.php on line 7
+[29-Mar-2014 15:40:04 UTC] PHP Parse error:  syntax error, unexpected ';' in C:\Apache24\htdocs\proj1\index.php on line 7
+[29-Mar-2014 15:40:27 UTC] PHP Parse error:  syntax error, unexpected ';' in C:\Apache24\htdocs\proj1\index.php on line 7
+[29-Mar-2014 15:40:27 UTC] PHP Parse error:  syntax error, unexpected ';' in C:\Apache24\htdocs\proj1\index.php on line 7
+[29-Mar-2014 15:40:28 UTC] PHP Parse error:  syntax error, unexpected ';' in C:\Apache24\htdocs\proj1\index.php on line 7
+[29-Mar-2014 15:40:28 UTC] PHP Parse error:  syntax error, unexpected ';' in C:\Apache24\htdocs\proj1\index.php on line 7
+[29-Mar-2014 15:40:28 UTC] PHP Parse error:  syntax error, unexpected ';' in C:\Apache24\htdocs\proj1\index.php on line 7
+[29-Mar-2014 15:40:28 UTC] PHP Parse error:  syntax error, unexpected ';' in C:\Apache24\htdocs\proj1\index.php on line 7
+[29-Mar-2014 15:41:14 UTC] PHP Parse error:  syntax error, unexpected ';' in C:\Apache24\htdocs\proj1\index.php on line 6
+[29-Mar-2014 15:41:15 UTC] PHP Parse error:  syntax error, unexpected ';' in C:\Apache24\htdocs\proj1\index.php on line 6
+[29-Mar-2014 15:41:15 UTC] PHP Parse error:  syntax error, unexpected ';' in C:\Apache24\htdocs\proj1\index.php on line 6
+[29-Mar-2014 15:41:15 UTC] PHP Parse error:  syntax error, unexpected ';' in C:\Apache24\htdocs\proj1\index.php on line 6
+[29-Mar-2014 15:41:15 UTC] PHP Parse error:  syntax error, unexpected ';' in C:\Apache24\htdocs\proj1\index.php on line 6
+[29-Mar-2014 15:41:15 UTC] PHP Parse error:  syntax error, unexpected ';' in C:\Apache24\htdocs\proj1\index.php on line 6
+[29-Mar-2014 15:41:16 UTC] PHP Parse error:  syntax error, unexpected ';' in C:\Apache24\htdocs\proj1\index.php on line 6
+[29-Mar-2014 15:41:16 UTC] PHP Parse error:  syntax error, unexpected ';' in C:\Apache24\htdocs\proj1\index.php on line 6
+[29-Mar-2014 15:41:16 UTC] PHP Parse error:  syntax error, unexpected ';' in C:\Apache24\htdocs\proj1\index.php on line 6
+[29-Mar-2014 15:41:53 UTC] PHP Parse error:  syntax error, unexpected ';' in C:\Apache24\htdocs\proj1\index.php on line 7
+[29-Mar-2014 15:41:54 UTC] PHP Parse error:  syntax error, unexpected ';' in C:\Apache24\htdocs\proj1\index.php on line 7
+[29-Mar-2014 15:41:54 UTC] PHP Parse error:  syntax error, unexpected ';' in C:\Apache24\htdocs\proj1\index.php on line 7
+[29-Mar-2014 15:42:05 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Apache24\htdocs\proj1\index.php on line 12
+[29-Mar-2014 15:42:05 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Apache24\htdocs\proj1\index.php on line 12
+[29-Mar-2014 15:42:23 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Apache24\htdocs\proj1\index.php on line 13
+[29-Mar-2014 15:42:23 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Apache24\htdocs\proj1\index.php on line 13
+[29-Mar-2014 15:42:23 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Apache24\htdocs\proj1\index.php on line 13
+[29-Mar-2014 15:42:23 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Apache24\htdocs\proj1\index.php on line 13
+[29-Mar-2014 15:43:26 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Apache24\htdocs\proj1\index.php on line 13
+[29-Mar-2014 15:44:27 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Apache24\htdocs\proj1\index.php on line 13
+[29-Mar-2014 15:44:28 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Apache24\htdocs\proj1\index.php on line 13
+[29-Mar-2014 15:44:28 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Apache24\htdocs\proj1\index.php on line 13
+[29-Mar-2014 15:44:32 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Apache24\htdocs\proj1\index.php on line 13
+[29-Mar-2014 15:44:32 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Apache24\htdocs\proj1\index.php on line 13
+[29-Mar-2014 15:44:32 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Apache24\htdocs\proj1\index.php on line 13
+[29-Mar-2014 15:44:32 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Apache24\htdocs\proj1\index.php on line 13
+[29-Mar-2014 15:44:33 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Apache24\htdocs\proj1\index.php on line 13
+[29-Mar-2014 15:51:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\login.php on line 23
+[29-Mar-2014 15:58:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\login.php on line 23
+[29-Mar-2014 15:59:55 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\login.php on line 23
+[29-Mar-2014 16:00:01 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\login.php on line 23
+[29-Mar-2014 16:00:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\login.php on line 23
+[29-Mar-2014 16:05:17 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\login.php on line 23
+[29-Mar-2014 16:05:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\login.php on line 23
+[29-Mar-2014 16:08:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\sign.php on line 23
+[29-Mar-2014 16:08:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\sign.php on line 23
+[29-Mar-2014 16:08:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\sign.php on line 23
+[29-Mar-2014 16:09:01 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\sign.php on line 23
+[29-Mar-2014 16:10:01 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\sign.php on line 23
+[29-Mar-2014 16:10:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\login.php on line 23
+[29-Mar-2014 16:10:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\login.php on line 23
+[29-Mar-2014 16:10:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\login.php on line 23
+[29-Mar-2014 16:12:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\login.php on line 23
+[29-Mar-2014 16:14:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\init.php on line 4
+[29-Mar-2014 16:14:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\init.php on line 4
+[29-Mar-2014 16:14:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\sign.php on line 23
+[29-Mar-2014 16:14:47 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\login.php on line 23
+[29-Mar-2014 16:25:30 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in C:\Apache24\htdocs\proj1\book.php on line 17
+[29-Mar-2014 16:25:30 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.;C:\php\pear') in C:\Apache24\htdocs\proj1\book.php on line 17
+[29-Mar-2014 16:25:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\book.php on line 18
+[29-Mar-2014 16:25:31 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in C:\Apache24\htdocs\proj1\book.php on line 17
+[29-Mar-2014 16:25:31 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.;C:\php\pear') in C:\Apache24\htdocs\proj1\book.php on line 17
+[29-Mar-2014 16:25:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\book.php on line 18
+[29-Mar-2014 16:25:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\book.php on line 18
+[29-Mar-2014 16:30:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\login.php on line 31
+[29-Mar-2014 16:43:48 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in C:\Apache24\htdocs\proj1\book.php on line 37
+[20-Apr-2014 08:10:09 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in C:\Apache24\htdocs\proj1\index.php on line 145
+[20-Apr-2014 08:10:28 UTC] PHP Fatal error:  Call-time pass-by-reference has been removed in C:\Apache24\htdocs\proj1\index.php on line 166
+[20-Apr-2014 08:10:57 UTC] PHP Fatal error:  Call-time pass-by-reference has been removed in C:\Apache24\htdocs\proj1\index.php on line 167
+[20-Apr-2014 08:10:58 UTC] PHP Fatal error:  Call-time pass-by-reference has been removed in C:\Apache24\htdocs\proj1\index.php on line 167
+[20-Apr-2014 08:10:58 UTC] PHP Fatal error:  Call-time pass-by-reference has been removed in C:\Apache24\htdocs\proj1\index.php on line 167
+[20-Apr-2014 08:10:58 UTC] PHP Fatal error:  Call-time pass-by-reference has been removed in C:\Apache24\htdocs\proj1\index.php on line 167
+[20-Apr-2014 08:16:43 UTC] PHP Warning:  include(./template/login_tmpr.php): failed to open stream: No such file or directory in C:\Apache24\htdocs\proj1\index.php on line 58
+[20-Apr-2014 08:16:43 UTC] PHP Warning:  include(): Failed opening './template/login_tmpr.php' for inclusion (include_path='.;C:\php\pear') in C:\Apache24\htdocs\proj1\index.php on line 58
+[20-Apr-2014 08:19:25 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\index.php on line 69
+[20-Apr-2014 08:19:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\Apache24\htdocs\proj1\lib\common.php on line 38
+[20-Apr-2014 08:22:14 UTC] PHP Parse error:  syntax error, unexpected '{' in C:\Apache24\htdocs\proj1\template\book_tmpr.php on line 29

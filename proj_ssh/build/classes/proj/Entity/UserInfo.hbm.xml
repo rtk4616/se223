@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping package="proj.Entity">
+  <class name="UserInfo" table="users">
+    <id name="id" column="u_id">
+      <generator class="increment" />
+    </id>
+    <property name="un" column="u_un" />
+    <property name="pw" column="u_pw" />
+  </class>
+</hibernate-mapping>

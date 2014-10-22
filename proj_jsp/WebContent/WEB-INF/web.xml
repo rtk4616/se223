@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<web-app xmlns="http://java.sun.com/xml/ns/j2ee"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd"
+    version="2.4">
+
+    <description>BookStore</description>
+    <display-name>BookStore</display-name>
+ 
+    <servlet>
+        <servlet-name>IndexServlet</servlet-name>
+        <servlet-class>com.proj2.IndexServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>IndexServlet</servlet-name>
+        <url-pattern>/index.jsp</url-pattern>
+    </servlet-mapping>
+    
+    <servlet>
+        <servlet-name>BookServlet</servlet-name>
+        <servlet-class>com.proj2.BookServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>BookServlet</servlet-name>
+        <url-pattern>/book.jsp</url-pattern>
+    </servlet-mapping>
+    
+    <servlet>
+        <servlet-name>CartServlet</servlet-name>
+        <servlet-class>com.proj2.CartServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>CartServlet</servlet-name>
+        <url-pattern>/cart.jsp</url-pattern>
+    </servlet-mapping>
+    
+</web-app>

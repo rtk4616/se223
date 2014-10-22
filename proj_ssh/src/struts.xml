@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts PUBLIC
+    "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+    "http://struts.apache.org/dtds/struts-2.0.dtd">
+
+<struts>
+
+  <constant name="struts.devMode" value="true" />
+  <constant name="struts.i18n.encoding" value="UTF-8"/>
+  
+  <package name="default" extends="struts-default">
+    <action name=""
+            class="proj.Action.IndexAction"
+            method="execute">
+      <result name="index">/WEB-INF/index.jsp</result>
+    </action>
+  
+    <action name="index"
+            class="proj.Action.IndexAction"
+            method="execute">
+      <result name="index">/WEB-INF/index.jsp</result>
+    </action>
+    
+    <action name="book"
+            class="proj.Action.BookAction"
+            method="execute">
+      <result name="book">/WEB-INF/book.jsp</result>
+    </action>
+    
+    <action name="cart"
+            class="proj.Action.CartAction"
+            method="execute">
+      <result name="cart">/WEB-INF/cart.jsp</result>
+    </action>
+    
+    <action name="login"
+            class="proj.Action.LoginAction"
+            method="execute">
+      <result name="login">/WEB-INF/login.jsp</result>
+    </action>
+    
+    <action name="logout"
+            class="proj.Action.LogoutAction"
+            method="execute">
+    </action>
+    
+    <action name="reg"
+            class="proj.Action.RegAction"
+            method="execute">
+      <result name="reg">/WEB-INF/reg.jsp</result>
+    </action>
+    
+    <action name="order"
+            class="proj.Action.OrderAction"
+            method="execute">
+      <result name="order">/WEB-INF/order.jsp</result>
+    </action>
+    
+    <action name="account"
+            class="proj.Action.AccountAction"
+            method="execute">
+      <result name="account">/WEB-INF/account.jsp</result>
+    </action>
+    
+    <action name="admin"
+            class="proj.Action.AdminAction"
+            method="execute">
+      <result name="admin">/WEB-INF/admin.jsp</result>
+    </action>
+    
+    <action name="ajax"
+            class="proj.Action.AjaxAction"
+            method="execute">
+    </action>
+  </package>
+  
+</struts>
