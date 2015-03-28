@@ -1,10 +1,9 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<%@page import="java.util.Vector" %>
-<%@page import="com.proj2.*" %>
+<%@page import="java.util.ArrayList" %>
+<%@page import="bookstore.entitybean.*" %>
 
-<% if(request.getAttribute("IN_USE") == null) return; %>
 <jsp:include page="./header.jsp" />
 
   <div class="panel panel-primary">
@@ -20,20 +19,18 @@
 	    <th>操作</th>
 	  </tr>
 
-<%
-  Vector<UserInfo> users = (Vector<UserInfo>)request.getAttribute("users");
-  for(UserInfo ui : users)
-  {
-     out.print("<tr class=\"admin-item\">\n");
-     out.print("<td class=\"a-uid\">" + ui.GetUID() + "</td>\n");
-     out.print("<td class=\"a-un\">" + ui.GetUN() + "</td>\n");
-     out.print("<td class=\"a-ops\">");
-     out.print("<a class=\"rmbtn\">删除用户</a>");
-     out.print("</td>");
-     out.print("</tr>");
-  }
-%>
-	  
+<% ArrayList<UserBean> users
+   = (ArrayList<UserBean>)request.getAttribute("users");
+   for(UserBean ui : users) { %>
+  <tr class="admin">
+    <td class="a-uid"><%= ui.getId().toString() %></td>
+    <td class="a-un"><%= ui.getUn() %></td>
+    <td class="a-ops">
+      <a class="rmbtn">删除用户</a>
+    </td> 
+  </tr>
+<% } %>
+
     </table>
     
   </div><!-- 。panel -->

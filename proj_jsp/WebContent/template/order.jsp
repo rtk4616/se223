@@ -1,9 +1,8 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
-<%@page import="java.util.Vector" %>
-<%@page import="com.proj2.*" %>
+<%@page import="java.util.*" %>
+<%@page import="bookstore.entitybean.*" %>
 
-<% if(request.getAttribute("IN_USE") == null) return; %>
 <jsp:include page="./header.jsp" />
 
   <div class="panel panel-primary">
@@ -14,22 +13,32 @@
 
     <table class="table table-striped" id="cart-tb"> 
 	  <tr>
-	    <th class="cart-th">名称</th>
+	    <th class="cart-th">订单号</th>
+	    <th class="cart-th">ISBN</th>
 	    <th class="cart-th">数量</th>
+	    <th class="cart-th">日期</th>
 	  </tr>
 	  
-<% 
-  /*Vector<CartItemInfo> items = (Vector<CartItemInfo>)request.getAttribute("order");
-  for(CartItemInfo item : items) 
-  {
-    out.print("<tr>\n");
-    out.print("<td class=\"c-name\">" + item.name + "</td>\n" + 
-              "<td class=\"c-cnt\">" + String.valueOf(item.count) + "</td>\n");
-    out.print("</tr>\n");
-  }*/
+<%
+	  	ArrayList<OrderItemBean> items
+	  	      = (ArrayList<OrderItemBean>)request.getAttribute("order");
+	  	    for(OrderItemBean item : items) {
 %>
+<tr>
+  <td class="o-id"><%= item.getId() %></td>
+  <td class="o-isbn"><%= item.getIsbn() %></td>
+  <td class="o-cnt"><%= item.getNum() %></td>
+  <td class="o-time"><%
+  Date dt = new Date(item.getTime() * 1000);
+  /*String dtstr = String.format("%d-%d-%d %d:%d:%d",
+		                       dt.getYear(), dt.getMonth(), dt.getDate(),
+		                       dt.getHours(), dt.getMinutes(), dt.getSeconds());*/
+  out.print(dt.toString());
+  %></td>
+</tr>
+<%  } %>
 
-	</table>
+   </table>
 	
   </div><!-- panel -->
 	

@@ -6,7 +6,7 @@ $(function()
 			return;
 		var row = $(this).parent().parent();
 		var name = $(row.children()[0]).text();
-		$.get("./cart.jsp?action=rm&name=" + name, function(res)
+		$.get("./cart?action=rm&name=" + name, function(res)
 		{
 			var json = eval("(" + res + ")");
 			if(json.errno == 0)
@@ -23,7 +23,7 @@ $(function()
 			return;
 		var row = $(this).parent().parent();
 		var name = $(row.children()[0]).text();
-		$.get("./cart.jsp?action=fix&name=" + name + 
+		$.get("./cart?action=fix&name=" + name + 
 				  "&num=" + num, function(res)
 		{
 			var json = eval("(" + res + ")");
@@ -44,7 +44,7 @@ $(function()
 	{
 		if(!confirm("确定要删除吗？"))
 			return;
-		$.get("./cart.jsp?action=clear", function(res)
+		$.get("./cart?action=clear", function(res)
 		{
 			var json = eval("(" + res + ")");
 			if(json.errno != "0")

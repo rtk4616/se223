@@ -7,7 +7,7 @@ $(function()
 		  return;
 		var row = $(this).parent().parent();
 		var name = $(row.children()[1]).text();
-		$.get("./book.jsp?action=addcart&name=" + name + 
+		$.get("./book?action=addcart&name=" + name + 
 		      "&count=" + cnt, function(res)
 		{
 		  var json = eval("(" + res + ")");
@@ -24,7 +24,7 @@ $(function()
 			return;
 		var row = $(this).parent().parent();
 		var name = $(row.children()[1]).text();
-		$.get("./book.jsp?action=rm&name=" + name, function(res)
+		$.get("./book?action=rm&name=" + name, function(res)
 		{
 			  var json = eval("(" + res + ")");
 		      if(json.errno == 0)
@@ -45,7 +45,7 @@ $(function()
 		 var name = prompt("请输入书名：", "");
 		 if(name == null || name == "")
 		     return;
-		 $.get("./book.jsp?action=add&name=" + name + "&isbn=" + isbn, 
+		 $.get("./book?action=add&name=" + name + "&isbn=" + isbn, 
 		       function(res)
 		 {
 		     var json = eval("(" + res + ")");

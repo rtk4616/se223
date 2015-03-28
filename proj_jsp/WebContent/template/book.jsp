@@ -1,7 +1,8 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
-<%@page import="java.util.Vector" %>
-<%@page import="com.proj2.*" %>
+<%@page import="java.util.*" %>
+<%@page import="bookstore.servlet.*" %>
+<%@page import="bookstore.entitybean.*" %>
 
 <% if(request.getAttribute("IN_USE") == null) return; %>
 <jsp:include page="./header.jsp" />
@@ -19,22 +20,22 @@
 	    <th>操作</th>
 	  </tr>
 	  
-<% 
-  boolean is_admin = request.getAttribute("IS_ADMIN") != null;
-  Vector<BookInfo> books = (Vector<BookInfo>)request.getAttribute("books");
-  for(BookInfo book : books) 
-  {
-    out.print("<tr class=\"book-item\">\n");
-    out.print("<td class=\"b-isbn\">" + book.GetIsbn() + "</td>\n"); 
-    out.print("<td class=\"b-name\">" + book.GetName() + "</td>\n"); 
-    out.print("<td class=\"b-ops\">");
-    out.print("<a class=\"cartbtn\">添加到购物车</a>");
-    if(is_admin)
-    	out.print(" | <a class=\"rmbtn\">删除</a>");
-    out.print("</td>\n");
-    out.print("</tr>\n");
-  }
-%>
+<%
+	  	boolean is_admin = request.getAttribute("IS_ADMIN") != null;
+		ArrayList<BookBean> books = (ArrayList<BookBean>)request.getAttribute("books");
+	    for(BookBean book : books) 
+	    {
+	      out.print("<tr class=\"book-item\">\n");
+	      out.print("<td class=\"b-isbn\">" + book.getIsbn() + "</td>\n"); 
+	      out.print("<td class=\"b-name\">" + book.getName() + "</td>\n"); 
+	      out.print("<td class=\"b-ops\">");
+	      out.print("<a class=\"cartbtn\">添加到购物车</a>");
+	      if(is_admin)
+	      	out.print(" | <a class=\"rmbtn\">删除</a>");
+	      out.print("</td>\n");
+	      out.print("</tr>\n");
+	    }
+	  %>
 
 	</table>
 
